@@ -1,0 +1,51 @@
+.container{
+	width:60%;
+	height:80%;
+	border: 2px solid black;
+	margin: auto;
+	padding: 50px;
+
+}
+.perfil {
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	margin:auto;
+	
+}
+h1{
+	text-align: center;
+	font-family: arial;
+}
+p{
+	text-align: center;
+	font-family: arial;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+h2{
+	margin-left: 35px;
+	font-family: arial;
+}
+
+.imagen {
+	
+	margin: 0px;
+	display: inline-block;
+	margin-left: 20px;
+
+}
+
+.uno {
+	display: inline-block;
+	margin: 10px;
+}
+    
+.hab{
+    font-family: arial;
+    border: 2px solid black;
+    background: silver;
+    margin: 10px 500px 10px 35px;
+    padding: 10px;
+}
